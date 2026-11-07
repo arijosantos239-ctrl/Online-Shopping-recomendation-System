@@ -1,0 +1,5 @@
+event_type,total_events,unique_users,unique_products
+cart,24030,4963,450
+purchase,11828,4522,450
+remove_from_cart,7949,3958,450
+view,156193,4999,450
